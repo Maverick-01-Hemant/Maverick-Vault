@@ -18,5 +18,5 @@ A secure, locally-hosted password manager featuring AES-256 bit encryption and a
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/maverick-vault.git](https://github.com/yourusername/maverick-vault.git)
+   git clone [https://github.com/Maverick-01-Hemant/Maverick-Vault.git](https://github.com/Maverick-01-Hemant/Maverick-Vault.git)
    cd maverick-vault
