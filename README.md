@@ -8,8 +8,6 @@ A secure, locally-hosted password manager featuring AES-256 bit encryption and a
 * **100% Offline:** No cloud syncing, zero third-party servers, and complete data sovereignty.
 * **Clean UI:** Lightweight Tkinter graphical interface for seamless navigation.
 
-## 📸 Screenshots
-*(Drag and drop your two Tkinter UI screenshots here)*
 
 ## 🛠️ Tech Stack
 * **Language:** Python 3
