@@ -1,0 +1,22 @@
+# Maverick Vault Secrets & Databases
+*.db
+*.sqlite
+*.sqlite3
+*.json
+*.key
+secret.key
+passwords.txt
+vault.dat
+
+# Python Caches & Environments
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+
+# PyInstaller Build Artifacts
+build/
+dist/
+*.spec
